@@ -1,0 +1,40 @@
+.title
+{
+    position: absolute;
+    height: 0px;
+    width: 100%;
+}
+
+.title h1
+{
+    color: black;
+    font-size: 750%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.events 
+{
+    text-align: center;
+    font-size: 150%;
+}
+
+.post
+{
+    text-align: left;
+    font-size: 125%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.post sup
+{
+    font-size: 100%;
+    color: grey;
+    float: right;
+}
+
+.post p
+{
+    font-size: 75%;
+}

@@ -1,0 +1,51 @@
+.title
+{
+    position: absolute;
+    height: 0px;
+    width: 100%;
+}
+
+.title h1
+{
+    color: black;
+    font-size: 750%;
+    text-align: center;
+    margin-top: 15%;
+}
+.title p
+{
+    color: black;
+    font-size: 250%;
+    text-align: center;
+}
+
+.title .buttons
+{
+    margin-top: 2.5%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.title .buttons .btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 90%;
+    text-transform: uppercase;
+}
+
+.title .buttons .btn-one
+{
+    background-color: grey;
+    font-family: "Roboto", sans-serif;
+}
+
+.title .buttons .btn:hover
+{
+    background-color: orangered;
+    transition: all 0.25s ease-in;
+}
