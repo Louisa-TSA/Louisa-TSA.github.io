@@ -1,0 +1,3 @@
+[submodule "tools/WotScript-scanner-preproccessor"]
+	path = tools/WotScript-scanner-preproccessor
+	url = https://github.com/WotScript/WotScript-scanner-preproccessor.git
