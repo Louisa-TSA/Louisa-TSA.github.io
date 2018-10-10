@@ -98,10 +98,6 @@ body
     margin-right: 5px;
     font-size: 90%;
     text-transform: uppercase;
-}
-
-.title .buttons .btn-one
-{
     background-color: grey;
     font-family: "Roboto", sans-serif;
 }

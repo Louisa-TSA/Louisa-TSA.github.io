@@ -1,0 +1,56 @@
+.title
+{
+    position: absolute;
+    height: 0px;
+    width: 100%;
+}
+
+.title h1
+{
+    color: black;
+    font-size: 500%;
+    text-align: center;
+    margin-top:  7.5%;
+    margin-bottom: -10%;
+}
+
+.members 
+{
+    text-align: center;
+    font-size: 150%;
+}
+
+.members h2
+{
+    text-align: center;
+    font-size: 150%;
+}
+
+.member
+{
+    text-align: left;
+    font-size: 125%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.member sup
+{
+    font-size: 100%;
+    color: grey;
+    float: right;
+}
+
+.member p
+{
+    font-size: 75%;
+}
+
+.member img
+{
+    float: left;
+    width:  10%;
+    height: auto;
+}
