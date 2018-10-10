@@ -1,0 +1,11 @@
+@define[PPT_PAGE_TITLE:Louisa TSA About]
+@define[PPT_STYLE_SHEET:"about.css"]
+@define[PPT_HOME_ACTIVE:""]
+@define[PPT_ABOUT_ACTIVE:"active"]
+@define[PPT_COMPETITIONS_ACTIVE:""]
+@define[PPT_EVENTS_ACTIVE:""]
+@define[PPT_MEMBERS_ACTIVE:""]
+@define[PPT_PAGE_CONTENT:
+@include[../pages/about_c.html]
+]
+@include[../templates/page_template.html]
